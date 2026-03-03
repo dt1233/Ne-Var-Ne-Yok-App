@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Logoyu klasörde yan yana koyduğunuz logoyla değiştirebilirsiniz (örn: logo.png) -->
-  <img src="./logo.png" alt="Ne Var Ne Yok? Logo" width="200" />
+  <img src="./Logo.png" alt="Ne Var Ne Yok? Logo" width="200" />
   <h1>🏙️ Ne Var Ne Yok?</h1>
   <p><b>Akıllı Şehir Bilgi ve Ulaşım Takip Platformu</b></p>
 
@@ -69,6 +69,15 @@ Sistemin mimari tasarımı belirlenirken bazı kesin sınır ve varsayımlar uyg
 
 ---
 
+## 📥 Proje Demoları ve Görseller
+Gizlilik politikaları gereği sistemin içerisinden anlık ekran görüntüleri bu genel dokümantasyonda direkt olarak yer almamaktadır.
+
+> 📌 **İletişim:** NVNY'in algoritma işleyişi, teknik özellikleri, detaylı veri şeması, canlı proje test linkleri ve arayüz görselleri talep edilmesi durumunda karşı tarafa doğrudan PDF ve sunum formatında iletilecektir.
+
+---
+
 <div align="center">
-  <p><i>"Ne Var Ne Yok?" - Şehrinizin Akıllı Asistanı</i></p>
+  <p><i>Bu proje,<link>Betsan Teknoloji</link> tarafından geliştirilmiştir.</i></p>
+  <p>betsanglobal.com</p>
 </div>
+
