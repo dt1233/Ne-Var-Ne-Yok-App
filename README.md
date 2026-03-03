@@ -77,7 +77,8 @@ Gizlilik politikaları gereği sistemin içerisinden anlık ekran görüntüleri
 ---
 
 <div align="center">
-  <p><i>Bu proje,<link>Betsan Teknoloji</link> tarafından geliştirilmiştir.</i></p>
+  <p><i>Bu proje, <link>Betsan Teknoloji</link> tarafından geliştirilmiştir.</i></p>
   <p>betsanglobal.com</p>
 </div>
+
 
