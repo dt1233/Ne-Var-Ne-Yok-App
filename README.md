@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Logoyu klasörde yan yana koyduğunuz logoyla değiştirebilirsiniz (örn: logo.png) -->
-  <img src="./Logo.png" alt="Ne Var Ne Yok? Logo" width="200" />
+  <img src="./Logo.jpg" alt="Ne Var Ne Yok? Logo" width="200" />
   <h1>🏙️ Ne Var Ne Yok?</h1>
   <p><b>Akıllı Şehir Bilgi ve Ulaşım Takip Platformu</b></p>
 
@@ -80,5 +80,6 @@ Gizlilik politikaları gereği sistemin içerisinden anlık ekran görüntüleri
   <p><i>Bu proje, <link>Betsan Teknoloji</link> tarafından geliştirilmiştir.</i></p>
   <p>betsanglobal.com</p>
 </div>
+
 
 
